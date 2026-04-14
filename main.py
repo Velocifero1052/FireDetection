@@ -2,7 +2,7 @@
 Fire Decision Algorithm Simulator
 Implements algorithms A, B, C according to SP 484.1311500.2020
 Author: Based on Mutovin & Chubar formalization
-GitHub: https://github.com/maxmutovin/fire-algorithm-simulator
+GitHub: https://github.com/Velocifero1052/FireDetection
 """
 
 import time
